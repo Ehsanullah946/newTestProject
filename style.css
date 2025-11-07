@@ -1,9 +1,11 @@
 body{
     margin:0;
     background-color: red;
+    box-sizing: border-box;
 }
 
 head{
     padding: 0;
+    margin: 0;
 }
 
